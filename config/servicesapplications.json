@@ -1,0 +1,3168 @@
+{"serviceapplicationmapping":
+[
+  {
+    "service": "zfaupload.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "zfaupload-intern-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "zfarro-intern-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "zfakom.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "zfaeao.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "zfaeao-intern-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "web-pdf-02.drv.drv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "was9_ir_computegrid.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "veak-service-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "v99-wbg-28.drv.drv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "v99-wbg-06.drv.drv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "user.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "timer.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "sysmon.csp.iss.drv.drv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "swkp.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "statusverfolger.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "stash.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "spoc02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "spoc01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "spoc.drv.drv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "sonarqube01.test.drv.drv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "SofortmeldungAuskunft-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "sofo.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "smsz-webservice-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "send",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rvwiki.drv.drv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rventgelt.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rventgelt-spoc-fd-zfa-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "RVBEA.VERARBEITUNG.CACHE.BATCH",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rvbea.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "RMI",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rh301.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "RH301.SPOC.FD.KLINIK.CACHE.RHTRANSFER",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rh301-spoc-fd-vstr-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rebsy_monitorzfa.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "rebsy.srv",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-westfalen",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-schwaben",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-sbay",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-saarland",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-rlp",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-rheinland",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-ob",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "prod-allris_server-nowit",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "zfaupload.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ZFAUPLOAD.SERVICE.CACHE",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "zfaupload-service-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "zfaeao.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "web-pdf-02.drv.drv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "user.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "spoc02",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "spoc01",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "sofo.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "sofo-extra-server-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "send",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "SelfServiceWeb-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "RMI",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "riester-formulare-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "rh301.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "RH301.SPOC.FD.KLINIK.CACHE.RHTRANSFER",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "pr__backend.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "pr-web-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "pr-backend-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "OnlineDiensteWeb-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "OnlineDiensteRest-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "nova.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "nova-gui-intranet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "nova-gui-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "nova-gui-extranet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ndr.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "nachderreha-api-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "meeting02",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "meeting01",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "lea2.srv",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "lea2-spoc-fd-war-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ldappol1.drv.drv:389",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "LBRForms-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "SofortmeldungAuskunft-extranet",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "mvs.drv.drv",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "hats02",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "hats01",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "eoa-web-war-extranet",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "e101-suche-extranet",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "default02",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "default01",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "BPAuskunftWeb-extranet",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "bp.srv",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "BIDIDAServices-intranet",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "bidida.srv",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "send",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "nova-gui-intranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "nova-gui-internet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "nova-gui-extranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "ldappol1.drv.drv:389",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "ftp://mvs.drv.drv",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginWebService-internet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginInfoWebService-intranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginESoz",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "elogin02",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "elogin01",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "elogin-web-service-http-router",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLogin-intranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLogin-internet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "elogin-info-webservice-web",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLogin-extranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLogin",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "spoc02",
+    "application": "Spoc"
+  },
+  {
+    "service": "spoc01",
+    "application": "Spoc"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "spoc.drv.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "rventgelt.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "rventgelt-spoc-fd-zfa-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "rh301.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "RH301.SPOC.FD.KLINIK.CACHE.RHTRANSFER",
+    "application": "Spoc"
+  },
+  {
+    "service": "rh301-spoc-fd-vstr-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.FD.SPOCFAREHA301VSTR",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.FD.SPOCFAEVORGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.FD.SPOCFAEESSINGEMPFANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-monitor-service-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-extra-13-webservice-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "egvp-xjustiz-schematron-api-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "egvp-xjustiz-codelisten-service-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "egericht-spoc-fd-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "eessingnari_transfer.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "eessing.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "EESSING.SPOC.FD.EMPFANG.CACHE.EMPFANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.EMPFANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.AUSGANG",
+    "application": "Spoc"
+  },
+  {
+    "service": "eessing-spoc-fd-empfang-web-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "eessi_ng.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "eessi02",
+    "application": "Spoc"
+  },
+  {
+    "service": "eessi01",
+    "application": "Spoc"
+  },
+  {
+    "service": "eessi-nari-ng.prod.tdmz.drv.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "ebefreiung.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "ebefreiung-spoc-fd-rv-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "eantrag_admin_api.srv",
+    "application": "Spoc"
+  },
+  {
+    "service": "eantrag-spoc-fd-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "eantrag-admin-api-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "eakte-vorgang-spoc-fd-war-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "Spoc"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "RMI",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_westfalen",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_schwaben",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_sbay",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_saarland",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_rlp",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_rheinland",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_ob",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_nowit",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_nord",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_nbay",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_md",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_koord",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_kbs",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_hessen",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_fna",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_bundesebene",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_bund",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_bh",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_bb",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "allrisnet_bawue",
+    "application": "PROD/allrisnet/LAN"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "RMI",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_westfalen",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_schwaben",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_sbay",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_saarland",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_rlp",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_rheinland",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_ob",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_nowit",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_nord",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_nbay",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_md",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_koord",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_kbs",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_hessen",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_fna",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_bundesebene",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_bund",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_bh",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_bb",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet_bawue",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "allrisnet-internet",
+    "application": "PROD/allris*LAN+TDMZ"
+  },
+  {
+    "service": "zfaupload.srv",
+    "application": "prod-zfaupload"
+  },
+  {
+    "service": "ZFAUPLOAD.SERVICE.CACHE",
+    "application": "prod-zfaupload"
+  },
+  {
+    "service": "zfaupload-service-internet",
+    "application": "prod-zfaupload"
+  },
+  {
+    "service": "zfaupload-intern-intranet",
+    "application": "prod-zfaupload"
+  },
+  {
+    "service": "web-pdf-02.drv.drv",
+    "application": "prod-zfaupload"
+  },
+  {
+    "service": "default02",
+    "application": "prod-zfaupload"
+  },
+  {
+    "service": "default01",
+    "application": "prod-zfaupload"
+  },
+  {
+    "service": "zfarro-intern-intranet",
+    "application": "prod-zfarro"
+  },
+  {
+    "service": "user.srv",
+    "application": "prod-zfarro"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-zfakom"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-zfakom"
+  },
+  {
+    "service": "zfaupload.srv",
+    "application": "prod-zfaformulare"
+  },
+  {
+    "service": "ZFAUPLOAD.SERVICE.CACHE",
+    "application": "prod-zfaformulare"
+  },
+  {
+    "service": "zfaupload-service-internet",
+    "application": "prod-zfaformulare"
+  },
+  {
+    "service": "web-pdf-02.drv.drv",
+    "application": "prod-zfaformulare"
+  },
+  {
+    "service": "riester-formulare-internet",
+    "application": "prod-zfaformulare"
+  },
+  {
+    "service": "default02",
+    "application": "prod-zfaformulare"
+  },
+  {
+    "service": "default01",
+    "application": "prod-zfaformulare"
+  },
+  {
+    "service": "zfaeao.srv",
+    "application": "prod-zfaeao"
+  },
+  {
+    "service": "zfaeao-intern-intranet",
+    "application": "prod-zfaeao"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-zentr"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-xrec"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-xrec"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-xman"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-xman"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-veak"
+  },
+  {
+    "service": "veak-service-intranet",
+    "application": "prod-veak"
+  },
+  {
+    "service": "smsz-webservice-war-intranet",
+    "application": "prod-veak"
+  },
+  {
+    "service": "jeez.prod.bund.drv",
+    "application": "prod-veak"
+  },
+  {
+    "service": "infosys.prod.bund.drv",
+    "application": "prod-veak"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-ug"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-testtools"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-statusverfolger"
+  },
+  {
+    "service": "statusverfolger.srv",
+    "application": "prod-statusverfolger"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-statusverfolger"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-spad"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-spad"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-sozhi"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-sozhi"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "sofo.srv",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "sofo-extra-server-internet",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "hc-crypt.drv.drv",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "SofortmeldungAuskunft-intranet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "SofortmeldungAuskunft-extranet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "smsz-webservice-war-intranet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "ISAHWeb-intranet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "eSolution-internet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "c07501.srv",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "BPAuskunftWSWeb-intranet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "rventgelt.srv",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "rventgelt-spoc-fd-zfa-war-intranet",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-rvbea"
+  },
+  {
+    "service": "hc-crypt.drv.drv",
+    "application": "prod-rvbea"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-rvbea"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "rh301.srv",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "RH301.SPOC.FD.KLINIK.CACHE.RHTRANSFER",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "rh301-spoc-fd-vstr-war-intranet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-intranet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-internet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "odrv-spoc-monitor-service-intranet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "komserrv_in.srv",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "komserrv-kommserver-nutzdaten-service-internet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "komserrv-kommserver-monitor-service-internet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "hc-crypt.drv.drv",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-rebsy"
+  },
+  {
+    "service": "rebsy_monitorzfa.srv",
+    "application": "prod-rebsy"
+  },
+  {
+    "service": "rebsy.srv",
+    "application": "prod-rebsy"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-ravtest"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-pr"
+  },
+  {
+    "service": "pr__backend.srv",
+    "application": "prod-pr"
+  },
+  {
+    "service": "pr-web-internet",
+    "application": "prod-pr"
+  },
+  {
+    "service": "pr-backend-internet",
+    "application": "prod-pr"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-pore"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-pore"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-pofaadm"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-pofaadm"
+  },
+  {
+    "service": "ftp://",
+    "application": "prod-phls"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-phls"
+  },
+  {
+    "service": "BPAuskunftWSPruefhilfeServices-intranet",
+    "application": "prod-phls"
+  },
+  {
+    "service": "bp.srv",
+    "application": "prod-phls"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-pdtools"
+  },
+  {
+    "service": "spoc.drv.drv",
+    "application": "prod-odrv-traeger"
+  },
+  {
+    "service": "s9000118.rzw.drv",
+    "application": "prod-odrv-traeger"
+  },
+  {
+    "service": "lxswwap2.lva24.drv",
+    "application": "prod-odrv-traeger"
+  },
+  {
+    "service": "lbj8odrvms-P00.now-it.drv",
+    "application": "prod-odrv-traeger"
+  },
+  {
+    "service": "lbj8odrvhh-P00.now-it.drv",
+    "application": "prod-odrv-traeger"
+  },
+  {
+    "service": "clpjeez.prod.bund.drv",
+    "application": "prod-odrv-traeger"
+  },
+  {
+    "service": "app.lb.prod.bebr.drv",
+    "application": "prod-odrv-traeger"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "rventgelt.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "rventgelt-spoc-fd-zfa-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "rh301.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "RH301.SPOC.FD.KLINIK.CACHE.RHTRANSFER",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "rh301-spoc-fd-vstr-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.FD.SPOCFAREHA301VSTR",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.FD.SPOCFAEVORGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.FD.SPOCFAEESSINGEMPFANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-status-servlet-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-monitor-service-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-extra-13-webservice-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "egvp-xjustiz-schematron-api-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "egvp-xjustiz-codelisten-service-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "egericht-spoc-fd-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eessingnari_transfer.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eessing.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "EESSING.SPOC.FD.EMPFANG.CACHE.EMPFANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.EMPFANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.AUSGANG",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eessing-spoc-fd-empfang-web-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eessi_ng.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eessi02",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eessi01",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eessi-nari-ng.prod.tdmz.drv.drv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ebefreiung.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "ebefreiung-spoc-fd-rv-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eantrag_admin_api.srv",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eantrag-spoc-fd-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eantrag-admin-api-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "eakte-vorgang-spoc-fd-war-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-od"
+  },
+  {
+    "service": "send",
+    "application": "prod-od"
+  },
+  {
+    "service": "SelfServiceWeb-internet",
+    "application": "prod-od"
+  },
+  {
+    "service": "OnlineDiensteWeb-internet",
+    "application": "prod-od"
+  },
+  {
+    "service": "OnlineDiensteRest-internet",
+    "application": "prod-od"
+  },
+  {
+    "service": "od-admin-web-war-intranet",
+    "application": "prod-od"
+  },
+  {
+    "service": "ldappol1.drv.drv:389",
+    "application": "prod-od"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-od"
+  },
+  {
+    "service": "eantragversichert.srv",
+    "application": "prod-od"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-od"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-nova"
+  },
+  {
+    "service": "nova.srv",
+    "application": "prod-nova"
+  },
+  {
+    "service": "nova-gui-intranet",
+    "application": "prod-nova"
+  },
+  {
+    "service": "nova-gui-internet",
+    "application": "prod-nova"
+  },
+  {
+    "service": "nova-gui-extranet",
+    "application": "prod-nova"
+  },
+  {
+    "service": "ftp://mvs.drv.drv",
+    "application": "prod-nova"
+  },
+  {
+    "service": "eLoginInfoWebService-intranet",
+    "application": "prod-nova"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-nova"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-nova"
+  },
+  {
+    "service": "ndr.srv",
+    "application": "prod-ndr"
+  },
+  {
+    "service": "nachderreha-api-internet",
+    "application": "prod-ndr"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-mze"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-mze"
+  },
+  {
+    "service": "BPAuskunftWSWeb-intranet",
+    "application": "prod-mze"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-mudida"
+  },
+  {
+    "service": "MUDIDA Sendungsverarbeitung",
+    "application": "prod-mudida"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-mudida"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-mav"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-mav"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-lohnriester"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-lea2"
+  },
+  {
+    "service": "lea2.srv",
+    "application": "prod-lea2"
+  },
+  {
+    "service": "lea2-spoc-fd-war-internet",
+    "application": "prod-lea2"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-lea2"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-lea1"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-lea1"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "LBRForms-internet",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-komzfdr"
+  },
+  {
+    "service": "komzfdr-api-war-internet",
+    "application": "prod-komzfdr"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-komzfdr"
+  },
+  {
+    "service": "rh301.srv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "RH301.SPOC.FD.KLINIK.CACHE.RHTRANSFER",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "lea2.srv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "lea2-spoc-fd-war-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv_in.srv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-nutzdaten-service-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-monitor-service-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-webservice-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-servlet-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-extra-14-servlet-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "hwk.srv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "hwk-spoc-fd-war-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "hc-crypt.drv.drv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "g131.srv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "g131-spoc-fd-war-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "ebefreiung.srv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "ebefreiung-spoc-fd-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "agse.srv",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "agse-komm-extern-war-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "v99-wbg-06.drv.drv",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "ISRV4Web-intranet",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "isrv.srv",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "hwk.srv",
+    "application": "prod-hwk"
+  },
+  {
+    "service": "hwk-spoc-fd-war-internet",
+    "application": "prod-hwk"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-hwk"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-gsf"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-gsf"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-grusi"
+  },
+  {
+    "service": "GrusiBzstAbgleich-intranet",
+    "application": "prod-grusi"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-grusi"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-grur"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-gbwspatient"
+  },
+  {
+    "service": "klinik_web-internet",
+    "application": "prod-gbwspatient"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "ldappol1.drv.drv:389",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "JavaLogViewerWeb-intranet",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "JavaLogViewerAdminWebService-intranet",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "gb0500logging.srv",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "eLogin",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "g131.srv",
+    "application": "prod-g131"
+  },
+  {
+    "service": "g131-spoc-fd-war-internet",
+    "application": "prod-g131"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-g131"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-evoat"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-evoat"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-eva"
+  },
+  {
+    "service": "eva-batch-war-intranet",
+    "application": "prod-eva"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eva"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-eue"
+  },
+  {
+    "service": "eubp.srv",
+    "application": "prod-eubp"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eubp"
+  },
+  {
+    "service": "bp.srv",
+    "application": "prod-eubp"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "v99-wbg-28.drv.drv",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "smsz-webservice-war-intranet",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "send",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "ftp://v970w034.now-it.DRV",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin.srv",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin-operator-intranet",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin-operator",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin-customer-internet",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin-customer",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "cms01.now-it.drv",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-esolution"
+  },
+  {
+    "service": "eSolution-internet",
+    "application": "prod-esolution"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-esolution"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-esolution"
+  },
+  {
+    "service": "c07501.srv",
+    "application": "prod-esolution"
+  },
+  {
+    "service": "BPAuskunftWSWeb-intranet",
+    "application": "prod-esolution"
+  },
+  {
+    "service": "ePostfachWeb-internet",
+    "application": "prod-epf"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-epcnui"
+  },
+  {
+    "service": "mvs.drv.drv",
+    "application": "prod-epcnui"
+  },
+  {
+    "service": "epcnui-java-intranet",
+    "application": "prod-epcnui"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-epcnui"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-epcnui"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-eoa"
+  },
+  {
+    "service": "eoa-web-war-extranet",
+    "application": "prod-eoa"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-eoa"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eoa"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "send",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "ldappol1.drv.drv:389",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginWebService-internet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginInfoWebService-intranet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginESoz",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "elogin-web-service-http-router",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLogin-intranet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLogin-internet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "elogin-info-webservice-web",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLogin-extranet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLogin",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-egvz"
+  },
+  {
+    "service": "egvz-batch-war-intranet",
+    "application": "prod-egvz"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-egvz"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "osci-ab02.drv.drv",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "egvp-xjustiz-schematron-api-war-intranet",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "egvp-xjustiz-codelisten-service-war-intranet",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "esozialgericht-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "eLoginESoz",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "egvp-xjustiz-schematron-api-war-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "egvp-xjustiz-codelisten-service-war-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "egericht.srv",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "egericht-vsnr-batch-war-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "egericht-spoc-fd-war-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "egericht-checker-war-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-eessing"
+  },
+  {
+    "service": "eessi_ng.srv",
+    "application": "prod-eessing"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eessing"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "eessia1.srv",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "EESSIA1.MAPPINGSERVICE.CACHE.EINGANG",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "EESSIA1.HOLO.ANNAHME.SERVICE.CACHE.BUSINESS",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "EESSIA1.ANNAHME.PRUEFUNG.SERVICE.CACHE.EINGANG",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "eessia1-rina-annahme-ws-web-intranet",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "eessia1-holo-annahme-service-web-intranet",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "eessi02",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "eessi01",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-eessi"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "odrv-spoc-monitor-service-intranet",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "komserrv_in.srv",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "komserrv-kommserver-nutzdaten-service-internet",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "komserrv-kommserver-monitor-service-internet",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "ebefreiung.srv",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "ebefreiung-spoc-fd-rv-intranet",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "ebefreiung-spoc-fd-internet",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-ebefreiung"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "eantrag_admin_api.srv",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "eantrag-spoc-fd-war-intranet",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "eantrag-admin-api-war-intranet",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "send",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eLoginWebService-internet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eLogin",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantragwebserviceextern-internet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantragwebservice-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eAntragAccess-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantrag_admin_api.srv",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantrag-spoc-fd-war-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantrag-internet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantrag-admin-api-war-intranet",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eaku.srv",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eabe.srv",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "eakte-vorgang-spoc-fd-war-intranet",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eLoginWebService-internet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eLoginInfoWebService-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eLogin",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantragwebserviceextern-internet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantragwebservice-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eAntragInstall-internet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eAntragAccess-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantrag_admin_api.srv",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantrag-spoc-fd-war-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantrag-admin-api-war-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eabe_pflegedialog-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eabe.srv",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-e101"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-e101"
+  },
+  {
+    "service": "e101-suche-extranet",
+    "application": "prod-e101"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-e101"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-dur"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "hc-crypt.drv.drv",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "DsvvVerarbeitung-intranet",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "dsvv.srv",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "dsvv-internet",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-dsrvstatistik"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-dsrvstatistik"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-dsrvbox"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-dsrvbox"
+  },
+  {
+    "service": "DSRVBoxWeb-internet",
+    "application": "prod-dsrvbox"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-dsrvbox"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-deuvweb"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-demail"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-cmkss"
+  },
+  {
+    "service": "sysmon.csp.iss.drv.drv",
+    "application": "prod-cmkss"
+  },
+  {
+    "service": "cmkss-web-intranet",
+    "application": "prod-cmkss"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "PinBriefWebService-intranet",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "certmgmt.srv",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "BPAuskunftWeb-intranet",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "BPAuskunftWeb-extranet",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "bp.srv",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-byes"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "bids.prod.bund.drv",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "BIDIDAServices-intranet",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "bidida.zivit.doi-de.net",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "bidida.srv",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "BIDIDA Sendungsverarbeitung",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-bb"
+  },
+  {
+    "service": "c00910.srv",
+    "application": "prod-bb"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-aopflege"
+  },
+  {
+    "service": "pflegedialog-intranet",
+    "application": "prod-aopflege"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-aopflege"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-aopflege"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "prod-agse"
+  },
+  {
+    "service": "osci-cl21.drv.drv",
+    "application": "prod-agse"
+  },
+  {
+    "service": "komserrv_in.srv",
+    "application": "prod-agse"
+  },
+  {
+    "service": "komserrv-kommserver-nutzdaten-service-internet",
+    "application": "prod-agse"
+  },
+  {
+    "service": "komserrv-kommserver-monitor-service-internet",
+    "application": "prod-agse"
+  },
+  {
+    "service": "hc-crypt.drv.drv",
+    "application": "prod-agse"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "prod-agse"
+  },
+  {
+    "service": "agse.srv",
+    "application": "prod-agse"
+  },
+  {
+    "service": "agse-komm-extern-war-internet",
+    "application": "prod-agse"
+  },
+  {
+    "service": "infosys.prod.bund.drv",
+    "application": "infosys.prod.bund.drv"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "Formserver"
+  },
+  {
+    "service": "Formserver-internet",
+    "application": "Formserver"
+  },
+  {
+    "service": "eue.srv",
+    "application": "Formserver"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "Formserver"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "Formserver"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "EESSI-NG-WAS-ONLY"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "EESSI"
+  },
+  {
+    "service": "spoc02",
+    "application": "EESSI"
+  },
+  {
+    "service": "spoc01",
+    "application": "EESSI"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "EESSI"
+  },
+  {
+    "service": "spoc.drv.drv",
+    "application": "EESSI"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRZL.AUSGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTRLP.AUSGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTKBS.AUSGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBW.AUSGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBUND.AUSGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "ODRV.SPOC.CACHE.STANDORTBB.AUSGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "odrv-spoc-routing-service-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "odrv-spoc-monitor-service-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessingnari_transfer.srv",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessing.srv",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.SPOC.FD.VERSAND.CACHE.ACK",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.SPOC.FD.EMPFANG.CACHE.EMPFANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.HOLO.ANNAHME.SERVICE.CACHE.SIGNAL",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.HOLO.ANNAHME.SERVICE.CACHE.BUSINESS",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.VERSAND",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.EMPFANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.EINGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSING.CORE.CACHE.AUSGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessing-spoc-fd-empfang-web-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessing-rina-annahme-ws-web-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessing-holo-annahme-service-web-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessia1.srv",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSIA1.MAPPINGSERVICE.CACHE.EINGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSIA1.HOLO.ANNAHME.SERVICE.CACHE.BUSINESS",
+    "application": "EESSI"
+  },
+  {
+    "service": "EESSIA1.ANNAHME.PRUEFUNG.SERVICE.CACHE.EINGANG",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessia1-rina-annahme-ws-web-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessia1-holo-annahme-service-web-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessi_ng.srv",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessi02",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessi01",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessi-nari-ng.prod.tdmz.drv.drv",
+    "application": "EESSI"
+  },
+  {
+    "service": "DSNPMVS",
+    "application": "EESSI"
+  },
+  {
+    "service": "zfaupload.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "ZFAUPLOAD.SERVICE.CACHE",
+    "application": "AllServices"
+  },
+  {
+    "service": "zfaupload-service-internet",
+    "application": "AllServices"
+  },
+  {
+    "service": "zfaupload-intern-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "zfarro-intern-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "zfakom.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "zfaeao.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "zfaeao-intern-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "web-pdf-02.drv.drv",
+    "application": "AllServices"
+  },
+  {
+    "service": "was9_was_sessions.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "was9_ir_computegrid.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "veak-service-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "v99-wbg-28.drv.drv",
+    "application": "AllServices"
+  },
+  {
+    "service": "v99-wbg-06.drv.drv",
+    "application": "AllServices"
+  },
+  {
+    "service": "user.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "timer.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "sysmon.csp.iss.drv.drv",
+    "application": "AllServices"
+  },
+  {
+    "service": "swkp.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "statusverfolger.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "stash.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "spoc02",
+    "application": "AllServices"
+  },
+  {
+    "service": "spoc01",
+    "application": "AllServices"
+  },
+  {
+    "service": "spoc.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "spoc.drv.drv",
+    "application": "AllServices"
+  },
+  {
+    "service": "sonarqube01.test.drv.drv",
+    "application": "AllServices"
+  },
+  {
+    "service": "SofortmeldungAuskunft-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "SofortmeldungAuskunft-extranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "sofo.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "sofo-extra-server-internet",
+    "application": "AllServices"
+  },
+  {
+    "service": "smsz-webservice-war-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "send",
+    "application": "AllServices"
+  },
+  {
+    "service": "SelfServiceWeb-internet",
+    "application": "AllServices"
+  },
+  {
+    "service": "rvwiki.drv.drv",
+    "application": "AllServices"
+  },
+  {
+    "service": "rventgelt.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "rventgelt-spoc-fd-zfa-war-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "RVBEA.VERARBEITUNG.CACHE.BATCH",
+    "application": "AllServices"
+  },
+  {
+    "service": "rvbea.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "RMI",
+    "application": "AllServices"
+  },
+  {
+    "service": "riester-formulare-internet",
+    "application": "AllServices"
+  },
+  {
+    "service": "rh301.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "RH301.SPOC.FD.KLINIK.CACHE.RHTRANSFER",
+    "application": "AllServices"
+  },
+  {
+    "service": "rh301-spoc-fd-vstr-war-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-intranet",
+    "application": "AllServices"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-internet",
+    "application": "AllServices"
+  },
+  {
+    "service": "rebsy_monitorzfa.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "rebsy.srv",
+    "application": "AllServices"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "AllServices"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "AllServices"
+  }
+]
+}

@@ -1,0 +1,432 @@
+{
+	"presence": {
+		"active": true,
+		"addNotMappedKeys": false,
+		"keys": [
+			{
+				"instana": "service",
+				"converter": "service",
+				"default": "none"
+			},
+			{
+				"instana": "id",
+				"converter": "id",
+				"default": "none"
+			},
+			{
+				"instana": "type",
+				"converter": "type",
+				"default": "none"
+			},
+			{
+				"instana": "state",
+				"converter": "state",
+				"default": "OPEN"
+			},
+			{
+				"instana": "severity",
+				"converter": "severity",
+				"default": "none"
+			},
+			{
+				"instana": "text",
+				"converter": "msg",
+				"default": "none"
+			},
+			{
+				"instana": "description",
+				"converter": "msg",
+				"concate": true,
+				"default": "none"
+			},
+			{
+				"instana": "suggestion",
+				"converter": "msg",
+				"concate" : true,
+				"default": "none"
+			},	
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},
+			{
+				"instana": "zone",
+				"converter": "zone",
+				"default": "none"
+			},
+			{
+				"instana": "tags",
+				"converter": "tags",
+				"default": "none"
+			},
+			{
+				"instana": "start",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "end",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "fqdn",
+				"converter": "fqdn",
+				"default": "none"
+			}
+		]
+	},
+	"closed": {
+		"addNotMappedKeys": false,
+		"active": true,
+		"keys": [
+			{
+				"instana": "id",
+				"converter": "id",
+				"default": "none"
+			},
+			{
+				"instana": "end",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "state",
+				"converter": "state",
+				"default": "CLOSED"
+			}
+		]
+	},
+	"default": {
+		"addNotMappedKeys": false,
+		"active": true,
+		"keys": [
+			{
+				"instana": "service",
+				"converter": "service",
+				"default": "none"
+			},
+			{
+				"instana": "id",
+				"converter": "id",
+				"default": "none"
+			},
+			{
+				"instana": "type",
+				"converter": "type",
+				"default": "none"
+			},
+			{
+				"instana": "state",
+				"converter": "state",
+				"default": "OPEN"
+			},
+			{
+				"instana": "severity",
+				"converter": "severity",
+				"default": "none"
+			},
+			{
+				"instana": "description",
+				"converter": "msg",
+				"concate": true,
+				"default": "none"
+			},
+			{
+				"instana": "suggestion",
+				"converter": "msg",
+				"concate" : true,
+				"default": "none"
+			},	
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},	
+			{
+				"instana": "zone",
+				"converter": "zone",
+				"default": "none"
+			},
+			{
+				"instana": "tags",
+				"converter": "tags",
+				"default": "none"
+			},
+			{
+				"instana": "start",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "end",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "fqdn",
+				"converter": "fqdn",
+				"default": "none"
+			}
+			
+		]
+	},
+	"change": {
+		"active": true,
+		"addNotMappedKeys": false,		
+		"keys": [
+			{
+				"instana": "service",
+				"converter": "service",
+				"default": "none"
+			},
+		
+			{
+				"instana": "id",
+				"converter": "id",
+				"default": "none"
+			},	
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},
+			{
+				"instana": "type",
+				"converter": "type",
+				"default": "none"
+			},
+			{
+				"instana": "state",
+				"converter": "state",
+				"default": "OPEN"
+			},
+			{
+				"instana": "severity",
+				"converter": "severity",
+				"default": "none"
+			},
+			{
+				"instana": "description",
+				"converter": "msg",
+				"concate": true,
+				"default": "none"
+			},
+			{
+				"instana": "suggestion",
+				"converter": "msg",
+				"concate" : true,
+				"default": "none"
+			},	
+			{
+				"instana": "suggestion",
+				"converter": "suggestion",
+				"default": "none"
+			},
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},
+			{
+				"instana": "zone",
+				"converter": "zone",
+				"default": "none"
+			},
+			{
+				"instana": "tags",
+				"converter": "tags",
+				"default": "none"
+			},
+			{
+				"instana": "start",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "end",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "fqdn",
+				"converter": "fqdn",
+				"default": "none"
+			}
+			
+		]
+	},
+	"incident": {
+		"active": true,
+		"addNotMappedKeys": false,		
+		"keys": [
+			{
+				"instana": "service",
+				"converter": "service",
+				"default": "none"
+			},
+		
+			{
+				"instana": "id",
+				"converter": "id",
+				"default": "none"
+			},	
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},
+			{
+				"instana": "type",
+				"converter": "type",
+				"default": "none"
+			},
+			{
+				"instana": "state",
+				"converter": "state",
+				"default": "OPEN"
+			},
+			{
+				"instana": "severity",
+				"converter": "severity",
+				"default": "none"
+			},
+			{
+				"instana": "description",
+				"converter": "msg",
+				"concate": true,
+				"default": "none"
+			},
+			{
+				"instana": "suggestion",
+				"converter": "msg",
+				"concate" : true,
+				"default": "none"
+			},	
+			{
+				"instana": "suggestion",
+				"converter": "suggestion",
+				"default": "none"
+			},
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},
+			{
+				"instana": "zone",
+				"converter": "zone",
+				"default": "none"
+			},
+			{
+				"instana": "tags",
+				"converter": "tags",
+				"default": "none"
+			},
+			{
+				"instana": "start",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "end",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "fqdn",
+				"converter": "fqdn",
+				"default": "none"
+			}
+			
+		]
+	},
+	"issue": {
+		"addNotMappedKeys": false,		
+		"active": true,
+		"keys": [
+			{
+				"instana": "service",
+				"converter": "service",
+				"default": "none"
+			},
+		
+			{
+				"instana": "id",
+				"converter": "id",
+				"default": "none"
+			},	
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},
+	
+			{
+				"instana": "type",
+				"converter": "type",
+				"default": "none"
+			},
+			{
+				"instana": "state",
+				"converter": "state",
+				"default": "OPEN"
+			},
+			{
+				"instana": "severity",
+				"converter": "severity",
+				"default": "none"
+			},
+			{
+				"instana": "description",
+				"converter": "msg",
+				"concate": true,
+				"default": "none"
+			},
+			{
+				"instana": "suggestion",
+				"converter": "msg",
+				"concate" : true,
+				"default": "none"
+			},	
+			{
+				"instana": "suggestion",
+				"converter": "suggestion",
+				"default": "none"
+			},
+			{
+				"instana": "link",
+				"converter": "link",
+				"default": "none"
+			},
+			{
+				"instana": "zone",
+				"converter": "zone",
+				"default": "none"
+			},
+			{
+				"instana": "tags",
+				"converter": "tags",
+				"default": "none"
+			},
+			{
+				"instana": "start",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "end",
+				"converter": "time",
+				"default": "none"
+			},
+			{
+				"instana": "fqdn",
+				"converter": "fqdn",
+				"default": "none"
+			}
+			
+		]
+	}
+}
+

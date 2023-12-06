@@ -1,0 +1,1725 @@
+{"serviceapplicationmapping":
+[
+  {
+    "service": "zfarro-intern-intranet",
+    "application": "prod-zfarro"
+  },
+  {
+    "service": "default02",
+    "application": "prod-zfarro"
+  },
+  {
+    "service": "default01",
+    "application": "prod-zfarro"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-zfakom"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-zfakom"
+  },
+  {
+    "service": "default02",
+    "application": "prod-zfaeao"
+  },
+  {
+    "service": "default01",
+    "application": "prod-zfaeao"
+  },
+  {
+    "service": "default02",
+    "application": "prod-xrec"
+  },
+  {
+    "service": "default01",
+    "application": "prod-xrec"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-xrec"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-xrec"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-xman"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-xman"
+  },
+  {
+    "service": "veak-service-intranet",
+    "application": "prod-veak"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-ug"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-ug"
+  },
+  {
+    "service": "default02",
+    "application": "prod-testtools"
+  },
+  {
+    "service": "default01",
+    "application": "prod-testtools"
+  },
+  {
+    "service": "default02",
+    "application": "prod-statusverfolger"
+  },
+  {
+    "service": "default01",
+    "application": "prod-statusverfolger"
+  },
+  {
+    "service": "default02",
+    "application": "prod-spad"
+  },
+  {
+    "service": "default01",
+    "application": "prod-spad"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-spad"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-spad"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-sozhi"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-sozhi"
+  },
+  {
+    "service": "sofo-extra-server-internet",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "default02",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "default01",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-sofo"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "smsz-webservice-war-intranet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "eSolution-internet",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "default02",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "default01",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "connector02",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "connector01",
+    "application": "prod-smsz"
+  },
+  {
+    "service": "default02",
+    "application": "prod-sa"
+  },
+  {
+    "service": "default01",
+    "application": "prod-sa"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "rventgelt-spoc-fd-intranet",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-rventgelt"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-rvbea"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-rvbea"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-intranet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "rh301-spoc-fd-klinik-war-internet",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "default02",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "default01",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-rh301"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-rebsy"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-rebsy"
+  },
+  {
+    "service": "default02",
+    "application": "prod-ravtest"
+  },
+  {
+    "service": "default01",
+    "application": "prod-ravtest"
+  },
+  {
+    "service": "default02",
+    "application": "prod-pore"
+  },
+  {
+    "service": "default01",
+    "application": "prod-pore"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-pore"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-pore"
+  },
+  {
+    "service": "default02",
+    "application": "prod-pofaadm"
+  },
+  {
+    "service": "default01",
+    "application": "prod-pofaadm"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-phls"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-phls"
+  },
+  {
+    "service": "BPAuskunftWSPruefhilfeServices-intranet",
+    "application": "prod-phls"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-pdtools"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-pdtools"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-status-servlet-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-standort-service-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-nutzdaten-service-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-monitor-service-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "odrv-spoc-extra-13-webservice-intranet",
+    "application": "prod-odrv"
+  },
+  {
+    "service": "SelfServiceWeb",
+    "application": "prod-od"
+  },
+  {
+    "service": "OnlineDiensteWeb",
+    "application": "prod-od"
+  },
+  {
+    "service": "default02",
+    "application": "prod-od"
+  },
+  {
+    "service": "default01",
+    "application": "prod-od"
+  },
+  {
+    "service": "elogin02",
+    "application": "prod-nova"
+  },
+  {
+    "service": "elogin01",
+    "application": "prod-nova"
+  },
+  {
+    "service": "default02",
+    "application": "prod-nova"
+  },
+  {
+    "service": "default01",
+    "application": "prod-nova"
+  },
+  {
+    "service": "nachderreha-api-internet",
+    "application": "prod-ndr"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-mze"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-mze"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-mudida"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-mudida"
+  },
+  {
+    "service": "MUDIDA Sendungsverarbeitung",
+    "application": "prod-mudida"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-mav"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-mav"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-lohnriester"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-lohnriester"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-lea2"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-lea2"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-lea1"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-lea1"
+  },
+  {
+    "service": "default02",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "default01",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-lbr"
+  },
+  {
+    "service": "komserrv-kommserver-nutzdaten-service-extranet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-monitor-service-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-webservice-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-servlet-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "komserrv-kommserver-extra-14-servlet-internet",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "default02",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "default01",
+    "application": "prod-komserrv"
+  },
+  {
+    "service": "ISRV4Web-intranet",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "isrv02",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "isrv01",
+    "application": "prod-isrvsuche"
+  },
+  {
+    "service": "hwk-spoc-fd-war-internet",
+    "application": "prod-hwk"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-hwk"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-hwk"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-gsf"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-gsf"
+  },
+  {
+    "service": "default02",
+    "application": "prod-grusi"
+  },
+  {
+    "service": "default01",
+    "application": "prod-grusi"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-grusi"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-grusi"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-grur"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-grur"
+  },
+  {
+    "service": "klinik_web-internet",
+    "application": "prod-gbwspatient"
+  },
+  {
+    "service": "default02",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "default01",
+    "application": "prod-gb0500logging"
+  },
+  {
+    "service": "g131-spoc-fd-war-internet",
+    "application": "prod-g131"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-g131"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-g131"
+  },
+  {
+    "service": "FdzPortalWeb-internet",
+    "application": "prod-fdzportal"
+  },
+  {
+    "service": "FdzPortalWeb",
+    "application": "prod-fdzportal"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-evoat"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-evoat"
+  },
+  {
+    "service": "eva-batch-war-intranet",
+    "application": "prod-eva"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-eva"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-eva"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-eubp"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-eubp"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-eubp"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-eubp"
+  },
+  {
+    "service": "etermin04",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin03",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin02",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin01",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin-operator-intranet",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "etermin-customer",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "eservice02",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "eservice01",
+    "application": "prod-etermin"
+  },
+  {
+    "service": "default02",
+    "application": "prod-ereha"
+  },
+  {
+    "service": "default01",
+    "application": "prod-ereha"
+  },
+  {
+    "service": "ePostfachWeb",
+    "application": "prod-epf"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-epcnui"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-epcnui"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-epcn"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-epcn"
+  },
+  {
+    "service": "default02",
+    "application": "prod-eoa"
+  },
+  {
+    "service": "default01",
+    "application": "prod-eoa"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginWebService-internet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginInfoWebService-intranet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginESoz",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "elogin02",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "elogin01",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLogin-internet",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "eLogin",
+    "application": "prod-elogin"
+  },
+  {
+    "service": "egvz-batch-war-intranet",
+    "application": "prod-egvz"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-egvz"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-egvz"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "egvp-xjustiz-datenschaufler-war-intranet",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-egvp"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "esozialgericht-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "egericht-vsnr-batch-war-intranet",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-egericht"
+  },
+  {
+    "service": "eessing-spoc-fd-empfang-web-intranet",
+    "application": "prod-eessing"
+  },
+  {
+    "service": "eessing-rina-annahme-ws-web-intranet",
+    "application": "prod-eessing"
+  },
+  {
+    "service": "eessi02",
+    "application": "prod-eessing"
+  },
+  {
+    "service": "eessi01",
+    "application": "prod-eessing"
+  },
+  {
+    "service": "eessi02",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "eessi01",
+    "application": "prod-eessia1"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-eessi"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-eessi"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "eantrag-spoc-fd-war-intranet",
+    "application": "prod-eantrag"
+  },
+  {
+    "service": "eantrag02",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantrag01",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "eantrag",
+    "application": "prod-eaku"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "eakte-vorgang-spoc-fd-war-intranet",
+    "application": "prod-eakte"
+  },
+  {
+    "service": "eantragwebserviceextern",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantragwebservice-intranet",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantrag02",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "eantrag01",
+    "application": "prod-eabe"
+  },
+  {
+    "service": "default02",
+    "application": "prod-e101"
+  },
+  {
+    "service": "default01",
+    "application": "prod-e101"
+  },
+  {
+    "service": "DsvvVerarbeitung-intranet",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "dsvv-internet",
+    "application": "prod-dsvv"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-dsrvstatistik"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-dsrvstatistik"
+  },
+  {
+    "service": "default02",
+    "application": "prod-dsrvbox"
+  },
+  {
+    "service": "default01",
+    "application": "prod-dsrvbox"
+  },
+  {
+    "service": "default02",
+    "application": "prod-downport"
+  },
+  {
+    "service": "default01",
+    "application": "prod-downport"
+  },
+  {
+    "service": "default02",
+    "application": "prod-deuvweb"
+  },
+  {
+    "service": "default01",
+    "application": "prod-deuvweb"
+  },
+  {
+    "service": "default02",
+    "application": "prod-demail"
+  },
+  {
+    "service": "default01",
+    "application": "prod-demail"
+  },
+  {
+    "service": "default02",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "default01",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-certmgmt"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "BPAuskunftWeb-intranet",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "BPAuskunftWeb-extranet",
+    "application": "prod-cbpdsrv"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-byes"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-byes"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "BIDIDAServices-intranet",
+    "application": "prod-bidida"
+  },
+  {
+    "service": "spoc02",
+    "application": "prod-agse"
+  },
+  {
+    "service": "spoc01",
+    "application": "prod-agse"
+  },
+  {
+    "service": "default02",
+    "application": "prod-agse"
+  },
+  {
+    "service": "default01",
+    "application": "prod-agse"
+  },
+  {
+    "service": "batch02",
+    "application": "prod-agse"
+  },
+  {
+    "service": "batch01",
+    "application": "prod-agse"
+  },
+  {
+    "service": "agse-komm-extern-war-internet",
+    "application": "prod-agse"
+  },
+  {
+    "service": "infosys.prod.bund.drv",
+    "application": "infosys.prod.bund.drv"
+  },
+  {
+    "service": "eantragwebserviceextern",
+    "application": "eabe"
+  },
+  {
+    "service": "eantragwebservice-intranet",
+    "application": "eabe"
+  },
+  {
+    "service": "eantrag02",
+    "application": "eabe"
+  },
+  {
+    "service": "eantrag01",
+    "application": "eabe"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "eLogin"
+  },
+  {
+    "service": "eLoginInfoWebService-intranet",
+    "application": "eLogin"
+  },
+  {
+    "service": "eLoginESoz",
+    "application": "eLogin"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "eLogin"
+  },
+  {
+    "service": "elogin02",
+    "application": "eLogin"
+  },
+  {
+    "service": "elogin01",
+    "application": "eLogin"
+  },
+  {
+    "service": "elogin.prod.tdmz.drv.drv",
+    "application": "eLogin"
+  },
+  {
+    "service": "eLogin-internet",
+    "application": "eLogin"
+  },
+  {
+    "service": "eLogin",
+    "application": "eLogin"
+  },
+  {
+    "service": "eantrag02",
+    "application": "eAntragVersicherten"
+  },
+  {
+    "service": "eantrag01",
+    "application": "eAntragVersicherten"
+  },
+  {
+    "service": "eantrag",
+    "application": "eAntragVersicherten"
+  },
+  {
+    "service": "zfarro-intern-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "veak-service-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "spoc02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "spoc01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "OracleDB@1521 on oraprod8",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "OracleDB@1521 on oraprod6",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "OracleDB@1521 on oraprod5",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "OracleDB@1521 on oraprod4",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "OracleDB@1521 on oraprod2",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "odrv-spoc-status-servlet-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "odrv-spoc-extra-13-webservice-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "MUDIDA Sendungsverarbeitung",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "meeting02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "meeting01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "ISRV4Web-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "isrv02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "isrv01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "hats02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "hats01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "GovWebAdmin",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "GovOsciManager",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eva-batch-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "etermin04",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "etermin03",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "etermin02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "etermin01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "etermin-operator-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "esozialgericht-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "egvz-batch-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "egvp-xjustiz-datenschaufler-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "EGVP-WS",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "egericht-vsnr-batch-war-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eessing-spoc-fd-empfang-web-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eessing-rina-annahme-ws-web-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eessi02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eessi01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eantragwebservice-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eAntragAccess-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eantrag02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "eantrag01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "DsvvVerarbeitung-intranet",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "DRV Bund Stab 0040 (Koord)",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "DRV Bund GB 0600 (FNA)",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "default02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "default01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "connector02",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "connector01",
+    "application": "WAS_PROD_Intranet"
+  },
+  {
+    "service": "sofo-extra-server-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "SelfServiceWeb",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "OnlineDiensteWeb",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "nachderreha-api-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "meeting02",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "meeting01",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-webservice-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-servlet-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "komserrv-kommserver-extra-14-servlet-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "klinik_web-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "FdzPortalWeb-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "FdzPortalWeb",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "etermin-customer",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eSolution-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eservice02",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eservice01",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "ePostfachWeb",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eLoginESoz",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "elogin02",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "elogin01",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eLogin-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eLogin",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eantragwebserviceextern",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eantrag02",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eantrag01",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "eantrag",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "dsvv-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "default02",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "default01",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "allrisnet-internet",
+    "application": "WAS_PROD_Internet"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "komserrv-kommserver-nutzdaten-service-extranet",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "hats01",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "default02",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "default01",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "BPAuskunftWeb-extranet",
+    "application": "WAS_PROD_Extranet"
+  },
+  {
+    "service": "eLoginWebService-intranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginWebService-internet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginInfoWebService-intranet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginESoz",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "elogin02",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "elogin01",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLogin-internet",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "eLogin",
+    "application": "WAS_PROD_Elogin"
+  },
+  {
+    "service": "s9000118.rzw.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "odrv-spoc-extra-13-webservice-intranet",
+    "application": "Spoc"
+  },
+  {
+    "service": "lxswwap2.lva24.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "lbj8odrvms-P00.now-it.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "lbj8odrvhh-P00.now-it.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "clpjeez.prod.bund.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "app.lb.prod.bebr.drv",
+    "application": "Spoc"
+  },
+  {
+    "service": "s9000118.rzw.drv",
+    "application": "SPoC-TrÃ¤ger"
+  },
+  {
+    "service": "lbj8odrvms-P00.now-it.drv",
+    "application": "SPoC-TrÃ¤ger"
+  },
+  {
+    "service": "lbj8odrvhh-P00.now-it.drv",
+    "application": "SPoC-TrÃ¤ger"
+  },
+  {
+    "service": "clpjeez.prod.bund.drv",
+    "application": "SPoC-TrÃ¤ger"
+  },
+  {
+    "service": "hats02",
+    "application": "PROD-epcnhat"
+  },
+  {
+    "service": "hats01",
+    "application": "PROD-epcnhat"
+  },
+  {
+    "service": "osci-dmz03 osci-dmz03",
+    "application": "OSCI"
+  },
+  {
+    "service": "osci-dmz02 osci-dmz02",
+    "application": "OSCI"
+  },
+  {
+    "service": "osci-dmz01 osci-dmz01",
+    "application": "OSCI"
+  },
+  {
+    "service": "Gov2Internalizer",
+    "application": "OSCI"
+  },
+  {
+    "service": "eessi02",
+    "application": "EESSI-NG-WAS-ONLY"
+  },
+  {
+    "service": "eessi01",
+    "application": "EESSI-NG-WAS-ONLY"
+  },
+  {
+    "service": "eessing-spoc-fd-empfang-web-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessing-rina-annahme-ws-web-intranet",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessi02",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessi01",
+    "application": "EESSI"
+  },
+  {
+    "service": "eessi-rina03.prod.tdmz.drv.drv",
+    "application": "EESSI"
+  },
+  {
+    "service": "batch02",
+    "application": "EESSI"
+  },
+  {
+    "service": "batch01",
+    "application": "EESSI"
+  },
+  {
+    "service": "zfarro-intern-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "veak-service-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "spoc02",
+    "application": "All Services"
+  },
+  {
+    "service": "spoc01",
+    "application": "All Services"
+  },
+  {
+    "service": "sofo-extra-server-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "SelfServiceWeb",
+    "application": "All Services"
+  },
+  {
+    "service": "pruefdienst02",
+    "application": "All Services"
+  },
+  {
+    "service": "pruefdienst01",
+    "application": "All Services"
+  },
+  {
+    "service": "OnlineDiensteWeb",
+    "application": "All Services"
+  },
+  {
+    "service": "odrv-spoc-status-servlet-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "odrv-spoc-extra-15-webservice-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "odrv-spoc-extra-13-webservice-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "nachderreha-api-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "MUDIDA Sendungsverarbeitung",
+    "application": "All Services"
+  },
+  {
+    "service": "meeting02",
+    "application": "All Services"
+  },
+  {
+    "service": "meeting01",
+    "application": "All Services"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-webservice-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "komserrv-kommserver-extra-15-servlet-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "komserrv-kommserver-extra-14-servlet-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "klinik_web-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "ISRV4Web-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "isrv02",
+    "application": "All Services"
+  },
+  {
+    "service": "isrv01",
+    "application": "All Services"
+  },
+  {
+    "service": "hats02",
+    "application": "All Services"
+  },
+  {
+    "service": "hats01",
+    "application": "All Services"
+  },
+  {
+    "service": "GovWebAdmin",
+    "application": "All Services"
+  },
+  {
+    "service": "GovOsciManager",
+    "application": "All Services"
+  },
+  {
+    "service": "FdzPortalWeb-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "FdzPortalWeb",
+    "application": "All Services"
+  },
+  {
+    "service": "eva-batch-war-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "etermin04",
+    "application": "All Services"
+  },
+  {
+    "service": "etermin03",
+    "application": "All Services"
+  },
+  {
+    "service": "etermin02",
+    "application": "All Services"
+  },
+  {
+    "service": "etermin01",
+    "application": "All Services"
+  },
+  {
+    "service": "etermin-operator-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "etermin-customer",
+    "application": "All Services"
+  },
+  {
+    "service": "esozialgericht-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "eSolution-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "eservice02",
+    "application": "All Services"
+  },
+  {
+    "service": "eservice01",
+    "application": "All Services"
+  },
+  {
+    "service": "ePostfachWeb",
+    "application": "All Services"
+  },
+  {
+    "service": "eLoginConnector",
+    "application": "All Services"
+  },
+  {
+    "service": "elogin02",
+    "application": "All Services"
+  },
+  {
+    "service": "elogin01",
+    "application": "All Services"
+  },
+  {
+    "service": "eLogin-internet",
+    "application": "All Services"
+  },
+  {
+    "service": "eLogin",
+    "application": "All Services"
+  },
+  {
+    "service": "egvz-batch-war-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "egvp-xjustiz-datenschaufler-war-intranet",
+    "application": "All Services"
+  },
+  {
+    "service": "EGVP-WS",
+    "application": "All Services"
+  },
+  {
+    "service": "egericht-vsnr-batch-war-intranet",
+    "application": "All Services"
+  }
+]
+}
+

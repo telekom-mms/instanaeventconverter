@@ -1,0 +1,115 @@
+{
+	"vservicemapping": [
+		{
+			"converter_alias": "Hazelcast Cluster",
+			"mapping_fields": [
+				{
+					"instana_field_key": "entity",
+					"value_is_vservice_name": false,
+					"instana_field_value": "Hazelcast Cluster"
+				},
+				{
+					"instana_field_key": "entityLabel",
+					"value_is_vservice_name": true,
+					"instana_field_value": "notnull"
+				}
+			]
+		},
+		{
+			"converter_alias": "Service Generell",
+			"mapping_fields": [
+				{
+					"instana_field_key": "entity",
+					"value_is_vservice_name": false,
+					"instana_field_value": "Service"
+				},
+				{
+					"instana_field_key": "entityLabel",
+					"value_is_vservice_name": true,
+					"instana_field_value": "notnull"
+				}
+			]
+		},
+		{
+			"converter_alias": "Application Generell",
+			"mapping_fields": [
+				{
+					"instana_field_key": "entity",
+					"value_is_vapplication_name": false,
+					"instana_field_value": "Application"
+				},
+				{
+					"instana_field_key": "entityLabel",
+					"value_is_vapplication_name": true,
+					"instana_field_value": "notnull"
+				}
+			]
+		},
+		{
+			"converter_alias": "Service Generell",
+			"mapping_fields": [
+				{
+					"instana_field_key": "entityType",
+					"value_is_vservice_name": false,
+					"instana_field_value": "Service"
+				},
+				{
+					"instana_field_key": "entityLabel",
+					"value_is_vservice_name": true,
+					"instana_field_value": "notnull"
+				}
+			]
+		},
+		{
+			"converter_alias": "Endpoint Generell",
+			"mapping_fields": [
+				{
+					"instana_field_key": "entity",
+					"value_is_vservice_name": false,
+					"instana_field_value": "Endpoint"
+				},
+				{
+					"instana_field_key": "entityLabel",
+					"value_is_vservice_name": true,
+					"instana_field_value": "notnull"
+				}
+			]
+		},
+		{
+			"converter_alias": "elogin",
+			"mapping_fields": [
+				{
+					"instana_field_key": "entity",
+					"value_is_vservice_name": false,
+					"instana_field_value": "Process"
+				},
+				{
+					"instana_field_key": "fqdn",
+					"value_is_vservice_name": false,
+					"instana_field_value": "el-was100.prod.tdmz.drv.drv"
+				}
+			]
+		},
+		{
+			"converter_alias": "elogin_not",
+			"mapping_fields": [
+				{
+					"instana_field_key": "entity",
+					"value_is_vservice_name": false,
+					"instana_field_value": "Process"
+				},
+				{
+					"instana_field_key": "fqdn",
+					"value_is_vservice_name": false,
+					"instana_field_value": "el-was100.prod.tdmz.drv.drv"
+				},
+				{
+					"instana_field_key": "fqdn",
+					"value_is_vservice_name": false,
+					"instana_field_value": "el-was110.prod.tdmz.drv.drv"
+				}
+			]
+		}
+	]
+}
+

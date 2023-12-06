@@ -1,0 +1,12 @@
+{"servicefilter":
+[
+  {
+    "service": "svb",
+    "application": "PROD-SBZ"
+  },
+  {
+    "service": "service2",
+    "application": "application1"
+  }
+]
+}
